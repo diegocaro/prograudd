@@ -1,0 +1,10 @@
+# Keynote files
+*.key
+
+# Google docs files
+*.gdoc
+
+# macos trash
+.DS_Store
+.DS_Store?
+Icon
