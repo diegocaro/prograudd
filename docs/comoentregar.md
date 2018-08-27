@@ -1,10 +1,18 @@
-# Cómo redactar tus soluciones 
-# Taller de programación
+---
+title: "Cómo redactar tus soluciones para el curso de TI2"
+date: "Agosto 2018"
+author: "Diego Caro"
+fontsize: 10pt
+documentclass: article
+classoption: twocolumn
+papersize: letter
+header-includes:
+    \usepackage{fullpage}
+---
 
-Por Diego Caro <dcaro@udd.cl>
 
 Aquí están las instrucciones de cómo escribir las soluciones de los ejercicios semanales, y que es lo que se espera que se entregue en ellas.
-Este documento es una adaptación de ``[How to write up homework solutions](http://www-inst.eecs.berkeley.edu/~cs170/fa14/hws/instruct.pdf)'' del curso CS 170 de la Universidad de California, Berkeley.
+Este documento es una adaptación de **How to write up homework solutions**\footnote{Disponible en \url{http://www-inst.eecs.berkeley.edu/~cs170/fa14/hws/instruct.pdf}.} del curso CS 170 de la Universidad de California, Berkeley.
 
 Cada vez que se le pregunte por cómo resolver algún problema programando en Python, su solución debe incluir los siguientes cuatro elementos:
 
@@ -23,14 +31,11 @@ Pero... ¿Cuánto detalle es necesario? Aquí va una guía sencilla. Supone que 
 **Importante**: debes denotar **claramente** tus respuestas en cada una de estas categorías. En otras palabras, debes tener una sección ``Idea principal'', que en efecto indique cómo funciona tu solución. Deja un espacio en blanco por cada sección para distinguir fácilmente las 4 secciones de tu respuesta.
 Si el problema original se divide en sub-problemas, debe indicar para cada sub-problema cada una de estas secciones por separado.
 
-#### Errores típicos al entregar soluciones
+**Errores típicos al entregar soluciones**
 
-1.  Indicar la idea principal de manera poco clara. Cuando se omite la idea principal, el lector debe inferir desde tu código cuál es la intención detrás, lo que les hace perder tiempo y volverse más gruñones (y además, se vuelve más quisquilloso con los errores o typos en el documento). Si incluyes la idea principal, estás haciendo más fácil la lectura y haciendo que los lectores digan "Wow, el/ella entendió el concepto", y luego es más probable obtener todo el puntaje en la pregunta.
-
+1. Indicar la idea principal de manera poco clara. Cuando se omite la idea principal, el lector debe inferir desde tu código cuál es la intención detrás, lo que les hace perder tiempo y volverse más gruñones (y además, se vuelve más quisquilloso con los errores o typos en el documento). Si incluyes la idea principal, estás haciendo más fácil la lectura y haciendo que los lectores digan "Wow, el/ella entendió el concepto", y luego es más probable obtener todo el puntaje en la pregunta.
 2. Hacer una validación poco informativa. Indicar de manera informal o imprecisa la validación de tu solución podría ser indicio de que el algoritmo no resuelve el problema, o de que no se sabe por qué funciona, o bien, funciona para sólo unos casos y no todos.
-
 3. Añadir dos hojas llenas de código en Python, en vez de escribir solo la sección que interesa para entender el algoritmo. Recuerda que el código final debes entregarlo en un archivo aparte o subirlo a github.
-
 4. Entregar el informe en Word. Para este curso todos los informes se deben entregar usando Markdown en formato PDF. Así podemos aprovechar el coloreo de sintáxis y un formato de dos columnas.
 
 
