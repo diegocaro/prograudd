@@ -14,7 +14,7 @@ header-includes:
 Aquí están las instrucciones de cómo escribir las soluciones de los ejercicios semanales, y que es lo que se espera que se entregue en ellas.
 Este documento es una adaptación de **How to write up homework solutions**\footnote{Disponible en \url{http://www-inst.eecs.berkeley.edu/~cs170/fa14/hws/instruct.pdf}.} del curso CS 170 de la Universidad de California, Berkeley.
 
-Cada vez que se le pregunte por cómo resolver algún problema programando en Python, su solución debe incluir los siguientes cuatro elementos:
+Cada vez que se le pregunte por cómo resolver algún problema programando en Python, su solución debe incluir los siguientes cinco elementos:
 
 1. La **presentación** del problema. Debe indicar en un par de líneas cuál es el problema que se debe resolver,  cuáles son sus restricciones, y cuál es la información con la que se cuenta disponible. Si le parece conveniente, incluya una figura o una notación que ayude al lector a comprender lo que se desea resolver.
 
