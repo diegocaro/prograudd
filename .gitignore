@@ -3,6 +3,10 @@
 
 # Google docs files
 *.gdoc
+*.gsheet
+
+__pycache__
+.ipynb_checkpoints
 
 # macos trash
 .DS_Store

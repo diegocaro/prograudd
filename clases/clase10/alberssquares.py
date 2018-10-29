@@ -1,3 +1,5 @@
+import sys
+sys.path.append('../../introcs-python/stdlib-python')
 import stddraw
 from color import Color
 
