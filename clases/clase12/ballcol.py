@@ -24,7 +24,8 @@ class Ball:
         self.ry = self.ry + self.vy
     
     def collision(self, p):
-        d = sqrt((self.rx-p.rx)**2 + (self.ry-p.ry)**2)
+        d = sqrt(((self.rx+self.vx)-(p.rx+p.vx))**2 + ((self.ry+self.vy)-(p.ry+p.vy))**2)
+        
         if d <= self.radius + p.radius:
             # collision detected!
             nx = self.rx-p.rx
