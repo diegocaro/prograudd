@@ -1,12 +1,12 @@
-# Programación UDD
+# Taller de Programación 2019-1
+
 Bienvenides al curso de introducción a la programación de la [Universidad del Desarrollo](http://www.udd.cl).
 
-## Recursos
+Profesor: Diego Caro (dcaro arroba udd punto cl)
+Ayudante: **Por definir**
 
-### Comunicación 
-
-* La clase está en Google Classroom, regístrate y escribe tus dudas en https://classroom.google.com/c/MTU5MDkzMjE2MjNa 
-
-
+Clases: Mi Vi 11:30 - 12:50
+Práctica: Lu 11:30 - 12:50
+Sala: Laboratorio 022
 
 
