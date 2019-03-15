@@ -15,7 +15,7 @@ Horario:
 Semana | Fecha | Contenido | Slides | Lectura 
 ------ | ----- | --------- | ------ | -------
 1 | Marzo 4 | Entrada/salida, tipos de datos, casting, operadores binarios | [clase00](./clases/clase00-welcome.pdf) [clase01](./clases/clase01-variables.pdf)  | [cap 1.1](https://introcs.cs.princeton.edu/python/11hello)  [cap 1.2](https://introcs.cs.princeton.edu/python/12types) 
-2 | Marzo 11 | Operaciones comparación, condicionales, ciclos while | [clase02](clases/clase02-expresiones.pdf) |[cap 1.3](https://introcs.cs.princeton.edu/python/13flow/)
+2 | Marzo 11 | Operaciones comparación, condicionales, ciclos while | [clase02](clases/clase02-expresiones.pdf) [clase03](clases/clase03-ciclos.pdf) | [cap 1.3](https://introcs.cs.princeton.edu/python/13flow/)
 3 | Marzo 18 | Ciclos for, control break y continue |  | [cap 1.3](https://introcs.cs.princeton.edu/python/13flow/)
 4 | Marzo 25 | Listas |  | [cap1.4](https://introcs.cs.princeton.edu/python/14array/)
 5 | Abril 1 | Funciones |  | [cap2.1](https://introcs.cs.princeton.edu/python/21function/)
