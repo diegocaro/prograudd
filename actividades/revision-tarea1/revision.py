@@ -24,7 +24,11 @@ print('Un total de', len(equipos), 'equipos entregaron la tarea.')
 shuffle(equipos)
 
 for i in range(len(equipos)//2):
-    print(str(i+1)+'.', equipos[2*i], 'revisa con', equipos[2*i+1])
+    if i == len(equipos)//2-1 and len(equipos)%2 == 1:
+        print(str(i+1)+'.', equipos[2*i], 'revisa con', equipos[2*i+1], 'y además', equipos[2*i+2])
+    else:
+        print(str(i+1)+'.', equipos[2*i], 'revisa con', equipos[2*i+1])
+
 
 
 for a in alerta:
