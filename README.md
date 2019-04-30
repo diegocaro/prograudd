@@ -21,8 +21,8 @@ Semana | Fecha | Contenido | Slides | Ayudantia |Lectura
 5 | Abril 1 | Funciones y estrategias de resolución de problemas | [clase08](clases/clase08-howtosolveit.pdf)  | [ayudantia04](ayudantias/ayudantia04.pdf) | [Cómo plantear y resolver problemas](https://es.wikipedia.org/wiki/C%C3%B3mo_plantear_y_resolver_problemas) [Common string operations](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
 \- | Abril 8 | Repaso y **Certamen 1** |  |  |
 \- | Abril 15 | **Semana libre** | |  |
-6 | Abril 22 | ~~Funciones recursivas~~ Actividad Tarea 1 y solución certamen | [clase09](clases/clase09-clase09-revision-tarea.pdf) | [ayudantia05](ayudantias/ayudantia05.pdf) | 
-7 | Abril 29 | Funciones recursivas | | [ayudantia06](ayudantias/ayudantia06.pdf) | [cap2.3](https://introcs.cs.princeton.edu/python/23recursion/)
+6 | Abril 22 | ~~Funciones recursivas~~ Actividad Tarea 1 y solución certamen | [clase09](clases/clase09-revision-tarea.pdf) | [ayudantia05](ayudantias/ayudantia05.pdf) | 
+7 | Abril 29 | Funciones recursivas | [clase10](clases/clase10-recursividad.pdf) | [ayudantia06](ayudantias/ayudantia06.pdf) | [cap2.3](https://introcs.cs.princeton.edu/python/23recursion/)
 8 | Mayo 6| Tipos de datos dict, set, tuple | | | [htlcs-cap11](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
 9 | Mayo 13 | Creación tipos de datos, API | |  |[cap3.1](https://introcs.cs.princeton.edu/python/31datatype/) [cap3.2](https://introcs.cs.princeton.edu/python/32class/)
 10 | Mayo 20 | Diseño tipo abstracto de datos y APIs | | | [cap3.3](https://introcs.cs.princeton.edu/python/33design/)
