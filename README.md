@@ -22,11 +22,10 @@ Semana | Fecha | Contenido | Slides | Ayudantia |Lectura
 \- | Abril 8 | Repaso y **Certamen 1** |  |  |
 \- | Abril 15 | **Semana libre** | |  |
 6 | Abril 22 | ~~Funciones recursivas~~ Actividad Tarea 1 y solución certamen | [clase09](clases/clase09-revision-tarea.pdf) | [ayudantia05](ayudantias/ayudantia05.pdf) | 
-7 | Abril 29 | Funciones recursivas | [clase10](clases/clase10-recursividad.pdf) | [ayudantia06](ayudantias/ayudantia06.pdf) | [cap2.3](https://introcs.cs.princeton.edu/python/23recursion/)
-8 | Mayo 6| Tipos de datos dict, set, tuple | | | [htlcs-cap11](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
-9 | Mayo 13 | Creación tipos de datos, API | |  |[cap3.1](https://introcs.cs.princeton.edu/python/31datatype/) [cap3.2](https://introcs.cs.princeton.edu/python/32class/)
-10 | Mayo 20 | Diseño tipo abstracto de datos y APIs | | | [cap3.3](https://introcs.cs.princeton.edu/python/33design/)
-11 | Mayo 27 | Manejo de matrices en Python |  | | [numpy quickstart](https://docs.scipy.org/doc/numpy-1.16.1/user/quickstart.html)
+7 | Abril 29 | Funciones recursivas + Tipos de datos dict, set, tuple| [clase10](clases/clase10-recursividad.pdf) | [ayudantia06](ayudantias/ayudantia06.pdf) | [cap2.3](https://introcs.cs.princeton.edu/python/23recursion/) [htlcs-cap11](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
+8 | Mayo 6 | Creación tipos de datos, API | |  |[cap3.1](https://introcs.cs.princeton.edu/python/31datatype/) [cap3.2](https://introcs.cs.princeton.edu/python/32class/)
+9 | Mayo 13 | Diseño tipo abstracto de datos y APIs | | | [cap3.3](https://introcs.cs.princeton.edu/python/33design/)
+10 | Mayo 20 | Manejo de matrices en Python |  | | [numpy quickstart](https://docs.scipy.org/doc/numpy-1.16.1/user/quickstart.html)
 11 | Mayo 27 | Simulaciones en Ciencias e Ingeniería | | | [cap3.4](https://introcs.cs.princeton.edu/python/34nbody/)
  \- | Junio 3 | **Certamen 2** |  |  |
 12 | Junio 17 | Simulaciones 2 |  | |
