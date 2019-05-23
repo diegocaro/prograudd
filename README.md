@@ -27,7 +27,7 @@ Semana | Fecha | Contenido | Slides | Ayudantia |Lectura
 9 | Mayo 13 | Diseño tipo abstracto de datos y APIs | [clase13](clases/clase13-class.pdf)  [clase14](clases/clase14-adt.pdf) | [ayudantia08](ayudantias/ayudantia08.pdf) | [cap3.3](https://introcs.cs.princeton.edu/python/33design/)
 10 | Mayo 20 | Animación y Manejo de matrices en Python | [clase15](clases/clase15-animation.pdf) | | [guia de uso introcs](https://github.com/diegocaro/prograudd/blob/master/docs/guia-introcs.pdf) [modulo introcs](https://github.com/diegocaro/introcs/) [numpy quickstart](https://docs.scipy.org/doc/numpy-1.16.1/user/quickstart.html) 
 11 | Mayo 27 | Simulaciones en Ciencias e Ingeniería | | | [cap3.4](https://introcs.cs.princeton.edu/python/34nbody/)
- \- | Junio 3 | **Certamen 2** |  |  |
+ \- | Junio 3 | Repaso y **Certamen 2** |  |  |
 12 | Junio 17 | Simulaciones 2 |  | |
 13 | Junio 24 | Wrap up |  | |
 \- | Julio 1 | **Examen** |  |  |
