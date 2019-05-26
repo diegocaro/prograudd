@@ -1,0 +1,10 @@
+digraph G
+{
+    main [label="main.py"];
+    ball [label="ball.py"];
+    pygame -> stddraw;
+    stddraw -> main
+    stddraw -> ball;
+    ball -> Ball;
+    main -> ball;
+}
