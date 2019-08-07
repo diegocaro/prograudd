@@ -49,3 +49,13 @@ Obligatoria:
 Complementaria:
 * [PPP] Bahit, Eugenia. Python para Principiantes. Descargar PDF en https://www.safecreative.org/work/1207302042960-curso-python-para-principiantes 
 * [htlacs] Downey, A. How to think like a computer scientist, http://www.greenteapress.com/thinkpython/html/index.html
+
+
+
+# Certámenes anteriores
+
+Semestre | Certamen 1 | Certamen 2 | Examen | Examen Recuperación
+------   | ---------- | --------- | ------ | ------- 
+2019-1 | [pauta-c1](./certamenes/2019-1-certamen1-pauta.pdf)    |  [pauta-c2](./certamenes/2019-1-certamen2-pauta.pdf)    |  [pauta-ex](./certamenes/2019-1-examen-pauta.pdf) | [pauta-rec](./certamenes/2019-1-certamen_recuperativo.pdf)
+2018-2 | [pauta-c1](./certamenes/2018-2-certamen1-pauta.pdf)    |  [practico](./certamenes/2018-2-certamen2-practica.pdf) [conceptual](./certamenes/2018-2-certamen2-conceptual.pdf)   |  [pauta-ex](./certamenes/2018-2-examen-pauta.pdf) | 
+
