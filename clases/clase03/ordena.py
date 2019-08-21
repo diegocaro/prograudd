@@ -1,9 +1,6 @@
-# argv contiene los argumentos entregados
-# por el usuario en la consola
-from sys import argv 
-a = int(argv[1])
-b = int(argv[2])
-c = int(argv[3])
+a = int(input())
+b = int(input())
+c = int(input())
 if b < a:
     a, b = b, a
 if c < a:

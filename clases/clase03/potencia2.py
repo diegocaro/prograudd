@@ -1,5 +1,4 @@
-from sys import argv
-n = int(argv[1])
+n = int(input())
 i = 0
 v = 1
 while i <= n:
